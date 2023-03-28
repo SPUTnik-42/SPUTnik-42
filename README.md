@@ -6,7 +6,7 @@ See some of my works below.</h4>-->
 <h1 align="center">Hi 👋, I'm Ushnik Nath</h1>
 <br><br>
 <h3 align="center">Bibliophile | Full stack Developer | Quantum Computing enthusiast | IPU'26 | MIS'22</h3>
-<h3 align="center">To visit my website <a href="https://sputnik-42.github.io/website/">here<a></h3>
+<h3 align="center">To visit my website <a target="_blank" href="https://sputnik-42.github.io/website/">here<a></h3>
 
 
 
