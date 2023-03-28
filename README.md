@@ -3,7 +3,10 @@
 <br></br>
 <h4>Bibliophile | Full stack Developer | Quantum Computing enthusiast | IPU'26 | MIS'22
 See some of my works below.</h4>-->
-[![Header](https://github.com/SPUTnik-42/SPUTnik-42/blob/main/gitprofile.png "Header")](https://sputnik-42.github.io/website/)
+<h1 align="center">Hi 👋, I'm Ushnik Nath</h1>
+<br><br>
+<h3 align="center">Bibliophile | Full stack Developer | Quantum Computing enthusiast | IPU'26 | MIS'22</h3>
+<h3 align="center">To visit my website <a href="https://sputnik-42.github.io/website/">here<a></h3>
 
 
 
