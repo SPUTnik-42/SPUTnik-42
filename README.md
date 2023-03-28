@@ -1,9 +1,9 @@
 <!--
-<h1 style="style:center">USHNIK NATH </h1>
+<h2 style="style:center">USHNIK NATH </h2>
 <br></br>
-<h4>I'm a High School Student, studying in The Mother's International School. I love reading books and Coding.
+<h4>Bibliophile | Full stack Developer | Quantum Computing enthusiast | IPU'26 | MIS'22
 See some of my works below.</h4>-->
-[![Header](https://github.com/SPUTnik-42/SPUTnik-42/blob/main/gitprofile.png "Header")](https://www.ushniknath.com/)
+[![Header](https://github.com/SPUTnik-42/SPUTnik-42/blob/main/gitprofile.png "Header")](https://sputnik-42.github.io/website/)
 
 
 
